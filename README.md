@@ -18,7 +18,6 @@ Analizar el comportamiento histórico del precio de la acción de Vista Energy (
 - Python (Pandas, NumPy): limpieza, transformación y cálculo de métricas
 - Matplotlib, Seaborn: visualizaciones
 - Power BI: dashboards
-- 
 
 
 ## Gráficos destacados
