@@ -11,7 +11,7 @@ Analizar el comportamiento histórico del precio de la acción de Vista Energy (
 ##  Fuente de los datos
 - Investing.com  
   https://es.investing.com/equities/vista-oil-gas-adr-historical-data  
-- Período: 02/01/2020 - 20/11/2025  
+- Período: 02/01/2020 - 06/02/2026  
 - Variables: Fecha, Precio de cierre (Último), Volumen, Var% diaria
 
 ##  Herramientas utilizadas
@@ -23,7 +23,7 @@ Analizar el comportamiento histórico del precio de la acción de Vista Energy (
 ## Gráficos destacados
 
 ![dashboard Vista Energy](images/vista_energy_grafico.png)
-
+![dashboard Vista Energy 2](images/vista_energy_grafico2.png)
 
 
 ## Informe completo
